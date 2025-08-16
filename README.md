@@ -1,2 +1,9 @@
 # QA-manual-training
-๊Use for practice-training QA manual testing
+This Repository contains practices and training QA Manual Testing include, 
+-Test case
+-Bug find reports
+
+
+
+*About Myself*
+I'm studying Software Engineering from Mae Fah Luang University.Interest and learning in QA/Tester Manual&Automated.
