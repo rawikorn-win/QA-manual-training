@@ -40,6 +40,7 @@ User remains in login page
 **Expected Result:**
 System show *Invalid username or password please try again*
 User remains in login page
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Test Case ID:** SHOPEE_LOGIN_QR_001  
