@@ -14,6 +14,7 @@ Expected Result:
 User successfully logged in
 show Shopee home page
 
+---
 
 Test Case ID: SHOPEE_LOGIN_002
 Title: Verify shopee login with invalid username
@@ -28,6 +29,7 @@ Expected Result:
 System show *Invalid username or password please try again*
 User remains in login page
 
+---
 
 Test Case ID: SHOPEE_LOGIN_003
 Title: Verify shopee login with invalid password
@@ -57,6 +59,7 @@ Expected Result:
 User successfully logged in
 show Shopee home page
 
+---
 
 Test Case ID: SHOPEE_LOGIN_QR_002
 Title: Use QR code to login and cancle login
@@ -72,6 +75,7 @@ Expected Result:
 User remains in login QR page
 User need to refresh for new QR code
 
+---
 
 Test Case ID: SHOPEE_LOGIN_QR_003
 Title: Use QR code to login but user doesn't have Shopee app
