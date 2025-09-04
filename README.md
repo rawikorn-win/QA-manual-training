@@ -5,7 +5,7 @@ This Repository contains practices and training QA Manual Testing include,
 
 
 
-*About Myself*
+*About Myself*  
 My name is Rawikorn Nuntawong, I am a fourth-year, Software Engineering student, Applied Digital Technology faculty, Mae Fah Luang University. I am interested in the Software Tester Internship position .I have a strong interest in both manual and automation testing and I'm currently learning Selenium and Playwright and I willing to learn and adapt.
 
 Languages
