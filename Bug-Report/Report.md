@@ -89,3 +89,31 @@ After typed"L"Character in Last Name field
 
 
 ---
+
+**Bug ID:** BUG_004
+**Title:** Login fails with valid credentials
+**Reporter:** Rawikorn  
+**Date:** 26 December 2025
+**Severity:** Critical  
+**Priority:** High  
+**Environment:** Chrome v120, Windows 10  
+**Precondition:** User has a valid username and password.
+
+**Steps to Reproduce:**  
+1. Open https://the-internet.herokuapp.com/basic_auth
+2. Browser displays Basic Authentication popup
+3. Enter username "admin"
+4. Enter password "admin"
+5. Click OK / Confirm on authentication popup
+
+**Expected Result:**  
+System should display "Congratulations! You must have the proper credentials."
+
+**Actual Result:**  
+System show "You hace enter wrong password/username"
+
+**Attachment:**  
+N/A
+
+---
+
